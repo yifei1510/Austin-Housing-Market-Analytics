@@ -53,7 +53,8 @@ The main challenge was to convert this raw dataset into a reliable, efficient, a
   
   Generated surrogate keys using index columns
   
-  Implemented SQL-style multi-column joins in Power Query
+  <img width="940" height="626" alt="image" src="https://github.com/user-attachments/assets/d668ba8c-d0ec-4db5-8d25-01d21fda7ce5" />
+
 
   ### Text Transformation
 
