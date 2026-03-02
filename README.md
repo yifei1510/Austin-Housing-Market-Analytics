@@ -58,7 +58,8 @@ The main challenge was to convert this raw dataset into a reliable, efficient, a
 
   Generated surrogate keys using index columns
   
-  <img width="940" height="626" alt="image" src="https://github.com/user-attachments/assets/d668ba8c-d0ec-4db5-8d25-01d21fda7ce5" />
+<img width="745" height="418" alt="image" src="https://github.com/user-attachments/assets/ec125779-a9c4-4159-8609-c7e4e3d488e9" />
+
 
 
   ### Text Transformation
@@ -111,6 +112,11 @@ The main challenge was to convert this raw dataset into a reliable, efficient, a
 | Reduction      | —           | ~40%                 |
 | Data Structure | Flat Table  | Star Schema          |
 | Text Data      | Raw Strings | Structured Dimension |
+
+### data report
+
+![Property_Market_Dashboard](https://github.com/user-attachments/assets/e3b082bd-ad43-4e1a-b9aa-4a247d43d1e7)
+
 
 ### Achievements
 
