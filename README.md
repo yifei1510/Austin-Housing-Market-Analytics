@@ -51,8 +51,9 @@ The main challenge was to convert this raw dataset into a reliable, efficient, a
       Property Dimension
       Location Dimension
 
-  <img width="940" height="366" alt="image" src="https://github.com/user-attachments/assets/cade8fd3-8c6f-4cb4-a7a9-83017be8cc38" />
-<img width="940" height="366" alt="image" src="https://github.com/user-attachments/assets/cade8fd3-8c6f-4cb4-a7a9-83017be8cc38" />
+
+<img width="452" height="176" alt="Picture9" src="https://github.com/user-attachments/assets/a741afa0-2fce-427d-9888-46a511155178" />
+
 
   Generated surrogate keys using index columns
   
