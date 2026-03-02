@@ -52,7 +52,8 @@ The main challenge was to convert this raw dataset into a reliable, efficient, a
       Location Dimension
 
 
-<img width="452" height="176" alt="Picture9" src="https://github.com/user-attachments/assets/a741afa0-2fce-427d-9888-46a511155178" />
+<img width="956" height="384" alt="image" src="https://github.com/user-attachments/assets/d0a463a1-5408-46b2-b300-5ddb579af70a" />
+
 
 
   Generated surrogate keys using index columns
