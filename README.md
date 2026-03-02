@@ -50,7 +50,10 @@ The main challenge was to convert this raw dataset into a reliable, efficient, a
       School Dimension
       Property Dimension
       Location Dimension
-  
+
+  <img width="940" height="366" alt="image" src="https://github.com/user-attachments/assets/cade8fd3-8c6f-4cb4-a7a9-83017be8cc38" />
+<img width="940" height="366" alt="image" src="https://github.com/user-attachments/assets/cade8fd3-8c6f-4cb4-a7a9-83017be8cc38" />
+
   Generated surrogate keys using index columns
   
   <img width="940" height="626" alt="image" src="https://github.com/user-attachments/assets/d668ba8c-d0ec-4db5-8d25-01d21fda7ce5" />
