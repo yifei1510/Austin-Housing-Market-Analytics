@@ -43,7 +43,7 @@ The main challenge was to convert this raw dataset into a reliable, efficient, a
 
 ### Data Modeling
 
-  Built a star schema with:
+  Built a data model using EXCEL power pivot:
   
       Housing Fact Table
       Feature Dimension
