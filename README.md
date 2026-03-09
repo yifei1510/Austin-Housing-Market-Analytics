@@ -113,7 +113,8 @@ The main challenge was to convert this raw dataset into a reliable, efficient, a
 
 ### data report
 
-![Property_Market_Dashboard](https://github.com/user-attachments/assets/e3b082bd-ad43-4e1a-b9aa-4a247d43d1e7)
+<img width="545" height="335" alt="image" src="https://github.com/user-attachments/assets/85e11e97-0069-4629-85ce-4b1792c8aa78" />
+
 
 
 ### Achievements
