@@ -48,10 +48,12 @@ The main challenge was to convert this raw dataset into a reliable, efficient, a
       Housing Fact Table
       Feature Dimension
       School Dimension
-      Property Dimension
+      House Dimension
       Location Dimension
+      Description Dimension
 
-<img width="622" height="416" alt="Screenshot 2026-03-09 204208" src="https://github.com/user-attachments/assets/c361b8a7-cb78-4e79-95c5-67c312d5808b" />
+<img width="494" height="379" alt="image" src="https://github.com/user-attachments/assets/2fb90711-6c83-4490-81b2-fba446058a2b" />
+
 
 
 <img width="956" height="384" alt="image" src="https://github.com/user-attachments/assets/d0a463a1-5408-46b2-b300-5ddb579af70a" />
