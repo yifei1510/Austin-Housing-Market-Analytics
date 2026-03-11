@@ -116,6 +116,9 @@ The main challenge was to convert this raw dataset into a reliable, efficient, a
 ### data report
 
 <img width="667" height="373" alt="image" src="https://github.com/user-attachments/assets/f5e89e96-33cd-4d36-a33b-7488b5eeab0d" />
+https://app.powerbi.com/groups/me/reports/3fa174c1-7367-4134-9264-b3257dd45974/a268de0cf7222dc8033d?experience=power-bi
+
+
 
 
 
