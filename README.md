@@ -1,4 +1,4 @@
-# Austin Housing Market Analytics: Data Modelling & Performance Optimization in Power Query
+# Austin Housing Market Analytics: Data Modelling & Performance Optimization in Power BI
 
 ## Executive Summary
 
