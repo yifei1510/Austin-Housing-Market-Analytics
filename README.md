@@ -90,6 +90,8 @@ Organised data to reduce redundancy and improve analysis efficiency
 Designed a dashboard to present key pricing and market insights
 
 You can view the dashboard output here:
+
+
 <img width="574" height="445" alt="Screenshot 2026-03-17 011713" src="https://github.com/user-attachments/assets/0aa6c219-c13e-4959-9662-d336ffb98b9a" />
 
 
@@ -123,7 +125,7 @@ You can view the dashboard output here:
     #### Recommendation:
     Focus reporting on both high-volume markets and premium niche suburbs. High-volume areas help identify overall market behaviour,      while smaller high-value suburbs may indicate premium pricing segments.
 
-      <img width="367" height="170" alt="Screenshot 2026-03-16 150031" src="https://github.com/user-attachments/assets/aaa9b3f1-f43c-4f13-acd0-fda32562dcd1" />
+<img width="367" height="170" alt="Screenshot 2026-03-16 150031" src="https://github.com/user-attachments/assets/aaa9b3f1-f43c-4f13-acd0-fda32562dcd1" />
 
   ### Home Type Summary
 
@@ -132,7 +134,8 @@ You can view the dashboard output here:
         #### Recommendation:
         For reporting and business analysis, treat Single Family homes as the core market segment, while using smaller categories             such as Vacant Land and MultiFamily to identify specialised or premium opportunities.
 
-    <img width="370" height="196" alt="Screenshot 2026-03-16 150052" src="https://github.com/user-attachments/assets/5949a385-1f35-4f76-8e26-3b1dabf6d1c4" />
+
+<img width="370" height="196" alt="Screenshot 2026-03-16 150052" src="https://github.com/user-attachments/assets/5949a385-1f35-4f76-8e26-3b1dabf6d1c4" />
 
 
 ### Achievements
