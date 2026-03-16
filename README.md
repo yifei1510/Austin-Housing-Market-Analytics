@@ -1,36 +1,32 @@
-# Austin Housing Market Analytics: Data Modelling & Performance Optimization in Power BI
+# Austin Housing Market Analytics: Excel, Power Query, Data Modelling and Dashboard Reporting Project
 
 ## Executive Summary
 
-This project focuses on transforming a raw real estate dataset into a structured, scalable, and high-performance business intelligence model using Power BI and Power Query.
+This project demonstrates my ability to use Excel Power Query to clean, transform and restructure messy raw housing data into a reporting-ready analytical model. Starting from a flat housing dataset, I standardised fields, reduced duplication, created linked tables, and built Excel Pivot Table analysis and dashboard reporting outputs.
 
-The original dataset contained over 15,000 property records with highly repetitive attributes, inconsistent formats, and large unstructured text fields. To improve data quality and analytical reliability, the data was systematically cleaned, grouped, and de-duplicated by consolidating similar records into well-defined dimension tables.
-
-Key transformations included standardizing data formats, grouping categorical variables, eliminating duplicate attribute combinations, and normalizing repetitive fields through surrogate keys. Multiple dimension tables were created to separate features, school metrics, property characteristics, and location data from transactional records.
-
-In addition, unstructured text descriptions were restructured into a tokenized dimension, enabling keyword-level analysis while significantly reducing storage overhead.
-
-As a result, the optimized data model reduced redundancy, improved query performance, and decreased file size by approximately 40%, supporting scalable multi-dimensional analysis and long-term system maintainability.
+The final model was designed to support clearer analysis of property prices, home types, bedroom distribution, living area, and school rating impact. In addition to data cleaning and modelling, I developed KPI summaries, Pivot Tables and charts to present business-facing insights in a clear and user-friendly format.
 
 ## Business Problem
 
-The original housing dataset contained:
+The original housing dataset was stored in a flat raw format, which made analysis less efficient due to:
 
-    High levels of repetitive attributes
-    Large unstructured text fields
-    Inefficient flat-table structure
-    Limited scalability for future growth
+    repeated attributes across many records
+    
+    inconsistent field structures
+    
+    large unstructured description text
+    
+    limited reporting readiness for trend analysis and summary reporting
 
-Directly visualizing this data led to:
+The objective of this project was to transform the raw dataset into a more structured Excel-based analytical model that could support:
 
-    Slower report performance
-    Increased storage requirements
-    Difficulty in maintaining relationships
-    Limited insight from text descriptions
+cleaner reporting outputs
 
-Without proper modeling, the dataset was unsuitable for enterprise-level analytics.
+easier comparison across cities and home types
 
-The main challenge was to convert this raw dataset into a reliable, efficient, and scalable BI model.
+pricing and property trend analysis
+
+more efficient use of Pivot Tables and charts
 
 ## Methodology
 
