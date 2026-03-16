@@ -30,92 +30,109 @@ more efficient use of Pivot Tables and charts
 
 ## Methodology
 
-### Data Preparation
+The project was completed in Excel using Power Query, data modelling logic, Pivot Tables and charts.
 
-    Created layered architecture: Source → Clean → Fact → Dimension
-    Standardized text formats and data types
-    Optimized numeric precision
-    Converted Boolean fields to user-friendly values
+### 1. Data Cleaning and Transformation
+
+    Loaded the raw housing dataset into Excel Power Query
+
+    Cleaned and transformed 15,172 records
+    
+    Standardised text fields and improved field consistency
+    
+    Removed duplicate attribute combinations
+    
+    Applied transformation rules to improve reporting readiness
+    
+    Reduced the main table from 47 columns to 21 columns
 
 ### Data Modeling
 
-  Built a data model using EXCEL power pivot:
-  
-      Housing Fact Table
-      Feature Dimension
-      School Dimension
-      House Dimension
-      Location Dimension
-      Description Dimension
+  Rebuilt the dataset into a relational model with 6 linked tables
 
-<img width="494" height="379" alt="image" src="https://github.com/user-attachments/assets/2fb90711-6c83-4490-81b2-fba446058a2b" />
+  Created:
+
+        housing_fact
+        
+        location
+        
+        house
+        
+        schools
+        
+        features
+        
+        description
+
+Created relationship keys to connect fact and supporting tables
+
+Organised data to reduce redundancy and improve analysis efficiency
+
+<img width="622" height="416" alt="Screenshot 2026-03-09 204208" src="https://github.com/user-attachments/assets/db7f5a7f-6248-4321-bbf7-3fe5feebcfca" />
+
+
+### 3. Excel Analysis and Dashboard Reporting
+
+ Built structured Excel Pivot Tables, KPIs and charts
+
+ Analysed 15,171 property listings
+
+ Created summary views by:
+
+        city
+        
+        home type
+        
+        bedroom count
+        
+        school rating band
+
+Designed a dashboard to present key pricing and market insights
+
+You can view the dashboard output here:
+<img width="574" height="445" alt="Screenshot 2026-03-17 011713" src="https://github.com/user-attachments/assets/0aa6c219-c13e-4959-9662-d336ffb98b9a" />
 
 
 
-<img width="956" height="384" alt="image" src="https://github.com/user-attachments/assets/d0a463a1-5408-46b2-b300-5ddb579af70a" />
+## Skills
 
+        Excel
+        Power Query
+        Data Cleaning
+        Data Transformation
+        Relational Data Modelling
+        Pivot Tables
+        KPI Reporting
+        Dashboard Design
+        Duplicate Removal
 
-
-
-
-  ### Text Transformation
-
-      Tokenized property descriptions into individual words
-      Unpivoted multi-column text structures
-      Removed punctuation, numbers, and stop words
-      Normalized casing and filtered low-value tokens
-      Created a structured description dimension
-
-### Performance Optimization
-
-    Eliminated redundant attribute storage
-    Removed long text fields from fact tables
-    Normalized categorical attributes
-    Reduced overall model complexity
-
-# Skills
-
-### Technical Skills
-
-    Power BI
-    Power Query (M Language)
-    Dimensional Modeling
-    Star Schema Design
-    Data Cleaning & Transformation
-    Text Tokenization
-
-### Analytical Skills
-
-    Data Normalization
-    Performance Optimization
-    Exploratory Data Analysis
-    Business Intelligence Design
-    Data Quality Management
-
- ### Business Skills
-
-    Analytical Problem Solving
-    Insight Communication
-    Model Scalability Planning
 
   ##  Results & Business Recommendation
 
   ### Key Results
 
-  | Metric         | Before      | After                |
-| -------------- | ----------- | -------------------- |
-| File Size      | ~5.3 MB     | ~2.9 MB              |
-| Reduction      | —           | ~40%                 |
-| Data Structure | Flat Table  | Star Schema          |
-| Text Data      | Raw Strings | Structured Dimension |
+        Cleaned and transformed 15,172 records
+        Reduced the main table from 47 columns to 21 columns
+        Built a relational model with 6 linked tables
+        Analysed 15,171 listings
 
-### Data report
+  ### City Summary
 
-<img width="667" height="373" alt="image" src="https://github.com/user-attachments/assets/f5e89e96-33cd-4d36-a33b-7488b5eeab0d" />
+    Austin dominates the dataset with 15,020 properties, an average price of $514,785, and an average living area of 2,210 sq ft.         Smaller locations such as West Lake Hills and Dripping Springs show much higher average prices and larger homes, although their       property counts are very low.
 
+    #### Recommendation:
+    Focus reporting on both high-volume markets and premium niche suburbs. High-volume areas help identify overall market behaviour,      while smaller high-value suburbs may indicate premium pricing segments.
 
+      <img width="367" height="170" alt="Screenshot 2026-03-16 150031" src="https://github.com/user-attachments/assets/aaa9b3f1-f43c-4f13-acd0-fda32562dcd1" />
 
+  ### Home Type Summary
 
+        Single Family properties account for 14,241 listings, making them the dominant segment in the dataset, with an average price         of $516,388. Vacant Land and MultiFamily properties show higher average prices, but they represent much smaller volumes.
+        
+        #### Recommendation:
+        For reporting and business analysis, treat Single Family homes as the core market segment, while using smaller categories             such as Vacant Land and MultiFamily to identify specialised or premium opportunities.
+
+    <img width="370" height="196" alt="Screenshot 2026-03-16 150052" src="https://github.com/user-attachments/assets/5949a385-1f35-4f76-8e26-3b1dabf6d1c4" />
 
 
 ### Achievements
